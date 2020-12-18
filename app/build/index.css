@@ -1,0 +1,22 @@
+body {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montserrat', sans-serif;
+  max-width: 100%;
+  overflow-x: hidden;
+  min-height: 100%;
+}
+
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+button:focus {
+  border: none;
+  outline: none;
+}

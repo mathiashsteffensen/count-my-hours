@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="x-in-circle-red.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-559.48852"
+     inkscape:cy="640.13039"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-147)">
+    <g
+       id="g818"
+       transform="matrix(1.1469982,0,0,1.1870889,-45.434812,45.717299)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path815"
+         d="M 105.00001,88.500049 A 60.000042,59.999998 0 0 0 45.000002,148.5 60.000042,59.999998 0 0 0 105.00001,208.49995 60.000042,59.999998 0 0 0 165,148.5 60.000042,59.999998 0 0 0 105.00001,88.500049 Z m 0,9.999906 A 50.000036,50 0 0 1 155.00009,148.5 50.000036,50 0 0 1 105.00001,198.50005 50.000036,50 0 0 1 54.999918,148.5 50.000036,50 0 0 1 105.00001,98.499955 Z"
+         style="fill:#fc133d;fill-opacity:1;stroke-width:0.2044674" />
+      <rect
+         transform="rotate(-45)"
+         ry="10.523537"
+         rx="0.95668566"
+         y="135.9539"
+         x="-35.035458"
+         height="86.595329"
+         width="8.5526247"
+         id="rect822"
+         style="fill:#fc133d;fill-opacity:1;stroke-width:0.26458332" />
+      <rect
+         transform="rotate(-135)"
+         ry="10.523537"
+         rx="0.95668566"
+         y="-74.056801"
+         x="-183.52788"
+         height="86.595329"
+         width="8.5526247"
+         id="rect822-6"
+         style="fill:#fc133d;fill-opacity:1;stroke-width:0.26458332" />
+    </g>
+  </g>
+</svg>
